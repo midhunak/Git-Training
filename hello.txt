@@ -3,6 +3,3 @@ hello sample
 
 
 hi demo..
-
-
-this is sample
